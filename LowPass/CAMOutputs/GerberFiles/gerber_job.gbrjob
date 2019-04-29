@@ -1,7 +1,7 @@
 {
     "Header": {
         "Comment": "All values are metric (mm)",
-        "CreationDate": "2019-04-19T04:09:07Z",
+        "CreationDate": "2019-04-29T21:36:06Z",
         "GenerationSoftware": {
             "Application": "EAGLE",
             "Vendor": "Autodesk",
@@ -13,12 +13,12 @@
         "BoardThickness": 1.57,
         "LayerNumber": 2,
         "Name": {
-            "ProjectId": "Network_L"
+            "ProjectId": "LowPass"
         },
         "Owner": "Jairo Mejia <jrmejiaa@unal.edu.co>",
         "Size": {
-            "X": 33,
-            "Y": 30.15
+            "X": 50.78,
+            "Y": 17.45
         }
     }
 }
